@@ -149,6 +149,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ChessBoardManager
   tilePrefab: {fileID: 1745307901354186663, guid: 592f74afd51efda4f990405692618c04, type: 3}
+  whitePiecePrefab: {fileID: 4490870827933803809, guid: 1e4a5ff79cd425c4c8ff3fab8d68e653, type: 3}
+  blackPiecePrefab: {fileID: 5317325165798924661, guid: bd7484ee7eb2ff246aac312ae16f4a68, type: 3}
 --- !u!4 &738369497
 Transform:
   m_ObjectHideFlags: 0
