@@ -149,8 +149,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ChessBoardManager
   tilePrefab: {fileID: 1745307901354186663, guid: 592f74afd51efda4f990405692618c04, type: 3}
-  whitePiecePrefab: {fileID: 4490870827933803809, guid: 1e4a5ff79cd425c4c8ff3fab8d68e653, type: 3}
-  blackPiecePrefab: {fileID: 5317325165798924661, guid: bd7484ee7eb2ff246aac312ae16f4a68, type: 3}
+  wPawn: {fileID: 9143126280644748430, guid: fe3cdeefff7034d4fa4ef3b41efe9d05, type: 3}
+  wRook: {fileID: 8344066351053151878, guid: 1760db0f8b74c9048800e302d8a2ea59, type: 3}
+  wKnight: {fileID: 7472010063489141229, guid: e55b2f9c0dc5c3049b7c4624fdb67bad, type: 3}
+  wBishop: {fileID: 252633182257201992, guid: 61e63a5b26060d744af949afee5fc6d3, type: 3}
+  wQueen: {fileID: 4702554194428890928, guid: c6bc309c0b97700429cda4b4870c037b, type: 3}
+  wKing: {fileID: 1279280975100144187, guid: 47245ea0a281bae4e9ea01a08128129a, type: 3}
+  bPawn: {fileID: 6543073304746435965, guid: bca7c8ed8de8dc54b9c1935bcb5a02bf, type: 3}
+  bRook: {fileID: 8152670568964092238, guid: f72091230519d784eb60b840a1661023, type: 3}
+  bKnight: {fileID: 24946203251272259, guid: 2342387700d3227438a11ab25ce4c63e, type: 3}
+  bBishop: {fileID: 6482753775080378012, guid: 9078d0b8becdfa6419c2cadc82cc7038, type: 3}
+  bQueen: {fileID: 1540585076524219276, guid: cbba5b7fe9dbd3440be72023d3558440, type: 3}
+  bKing: {fileID: 2678525928312280389, guid: 81df77295c631ce4bbe2766ec0445b2a, type: 3}
 --- !u!4 &738369497
 Transform:
   m_ObjectHideFlags: 0
